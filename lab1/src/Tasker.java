@@ -23,5 +23,6 @@ public class Tasker {
                 b++;
             }
         }
+        System.out.println();
     }
 }
