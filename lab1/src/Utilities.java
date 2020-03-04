@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EnterCHECKER {
+public class Utilities {
     public static int Check (int x) {
         Scanner scn = new Scanner(System.in);
         int flag = 0;
